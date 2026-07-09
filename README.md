@@ -19,3 +19,4 @@ git remote add origin https://github.com/username/repository-name.git
 # 6. Push your code to GitHub
 git push -u origin main
 im a teacher 
+it init
