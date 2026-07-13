@@ -1,6 +1,6 @@
 # amir
 im king
-# 1. Initialize a local Git repository
+
 git init
 
 # 2. Stage all your project files
