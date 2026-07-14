@@ -9,7 +9,7 @@ git add .
 # 3. Commit the files with a message
 git commit -m "Initial commit"
 
-# 4. Rename the default branch to 'main'
+
 git branch -M main
 
 # 5. Link your local project to your GitHub repository
