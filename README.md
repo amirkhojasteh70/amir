@@ -1,5 +1,5 @@
 # amir
-im king
+
 
 git init
 
