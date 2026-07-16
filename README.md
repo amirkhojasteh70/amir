@@ -1,7 +1,7 @@
 # amir
 
 
-git init
+
 
 # 2. Stage all your project files
 git add .
