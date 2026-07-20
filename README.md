@@ -3,7 +3,7 @@ r
 
 
 
-# 2. Stage all your project files
+Stage all your project files
 git add .
 
 # 3. Commit the files with a message
