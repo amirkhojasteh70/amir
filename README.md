@@ -3,7 +3,7 @@
 
 
 
- all your project files
+your project files
 git add .
 
 # 3. Commit the files with a message
