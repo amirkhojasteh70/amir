@@ -3,7 +3,6 @@
 
 
 
- files
 git add .
 
 # 3. Commit the files with a message
