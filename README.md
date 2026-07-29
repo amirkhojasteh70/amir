@@ -3,7 +3,7 @@
 
 
 
-git add .
+ add .
 
 # 3. Commit the files with a message
 git commit -m "Initial commit"
