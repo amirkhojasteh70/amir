@@ -5,7 +5,7 @@
 
  
 
-files with a message
+ with a message
 git commit -m "Initial commit"
 
 
