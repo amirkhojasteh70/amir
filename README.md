@@ -5,7 +5,7 @@
 
  
 
- with a message
+ a message
  -m "Initial commit"
 
 
