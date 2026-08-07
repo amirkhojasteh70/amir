@@ -6,7 +6,7 @@
  
 
 
- -m "Initial commit"
+ -m  commit"
 
 
 git branch -M main
