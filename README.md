@@ -9,7 +9,7 @@
  
 
 
--M main
+ main
 
 # 5. Link your local project to your GitHub repository
 # (Replace the URL below with your actual GitHub repository URL)
