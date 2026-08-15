@@ -16,6 +16,6 @@
 git remote add origin https://github.com/username/repository-name.git
 
  Push your code to GitHub
-git push -u origin main
+t push -u origin main
 
 
