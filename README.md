@@ -13,7 +13,7 @@
 
  r local project to your GitHub repository
 eplace the URL below with your actual GitHub repository URL)
-git remote add origin https://github.com/username/repository-name.git
+it remote add origin https://github.com/username/repository-name.git
 
  to GitHub
 
