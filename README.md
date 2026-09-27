@@ -13,7 +13,7 @@
 
  r local project to your GitHub repository
 eplace the URL below with your actual GitHub repository URL)
- dd origin https://github.com/username/repository-name.git
+d origin https://github.com/username/repository-name.git
 
 b
 
