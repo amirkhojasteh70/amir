@@ -12,7 +12,7 @@
 
 
  r local project to your GitHub repository
-eplace the URL below with your actual GitHub repository URL)
+place the URL below with your actual GitHub repository URL)
 rigin https://github.com/username/repository-name.git
 
 b
