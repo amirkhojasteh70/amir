@@ -13,7 +13,7 @@
 
  r local project to your GitHub repository
 place the URL below with your actual GitHub repository URL)
-n https://github.com/username/repository-name.git
+ https://github.com/username/repository-name.git
 
 b
 
