@@ -11,7 +11,7 @@
 
 
 
- ocalject to ouritHuposit
+ ocalject to ouritHupos
 e he URL below with your ctual GitHub repository URL)
 /sitory-nameit
 
